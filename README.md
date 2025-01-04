@@ -38,7 +38,8 @@ Home-device-control-via-IR-remote-master/
 
 ## Circuit Diagram
 
-![Circuit Diagram](project%20circuit%20diagram.png)
+![project circuit diagram](https://github.com/user-attachments/assets/4f742d50-70d7-4a51-b1e4-dc931d4accbd)
+
 
 ## Getting Started
 
